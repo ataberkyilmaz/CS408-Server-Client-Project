@@ -1,0 +1,75 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.pdb
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\client.exe.config
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\obj\Debug\client.exe
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\obj\Debug\client.pdb
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\client.exe
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\client.pdb
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\mscorlib.dll
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\System.Net.Http.dll
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\System.Net.Http.xml
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\normidna.nlp
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\normnfc.nlp
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\normnfd.nlp
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\normnfkc.nlp
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\bin\Debug\normnfkd.nlp
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\obj\Debug\client.Form1.resources
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\atabe\Desktop\socket_programming_examples\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\atabe\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\atabe\Desktop\client\client\obj\Debug\client.exe
+C:\Users\atabe\Desktop\client\client\obj\Debug\client.pdb
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\client.exe.config
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\obj\Debug\client.exe
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\obj\Debug\client.pdb
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\client.exe
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\client.pdb
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\mscorlib.dll
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\System.Net.Http.dll
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\System.Net.Http.xml
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\normidna.nlp
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\normnfc.nlp
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\normnfd.nlp
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\normnfkc.nlp
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\bin\Debug\normnfkd.nlp
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\obj\Debug\client.Form1.resources
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\atabe\Desktop\ataberkyilmaz_Yilmaz_Ataberk_step1\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\oerba\OneDrive\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\oerba\OneDrive\Desktop\client\client\obj\Debug\client.exe
+C:\Users\oerba\OneDrive\Desktop\client\client\obj\Debug\client.pdb
+C:\Users\oerba\OneDrive\Desktop\client\client\bin\Debug\client.exe
+C:\Users\oerba\OneDrive\Desktop\client\client\bin\Debug\client.pdb
+C:\Users\oerba\OneDrive\Desktop\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\oerba\OneDrive\Desktop\client\client\obj\Debug\client.Form1.resources
+C:\Users\oerba\OneDrive\Desktop\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\oerba\OneDrive\Desktop\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\client.exe.config
+C:\Users\atabe\Desktop\projjj\client\client\obj\Debug\client.exe
+C:\Users\atabe\Desktop\projjj\client\client\obj\Debug\client.pdb
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\client.exe
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\client.pdb
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\mscorlib.dll
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\System.Net.Http.dll
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\System.Net.Http.xml
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\normidna.nlp
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\normnfc.nlp
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\normnfd.nlp
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\normnfkc.nlp
+C:\Users\atabe\Desktop\projjj\client\client\bin\Debug\normnfkd.nlp
+C:\Users\atabe\Desktop\projjj\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\atabe\Desktop\projjj\client\client\obj\Debug\client.Form1.resources
+C:\Users\atabe\Desktop\projjj\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\atabe\Desktop\projjj\client\client\obj\Debug\client.csproj.GenerateResource.Cache
